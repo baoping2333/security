@@ -8,5 +8,5 @@ spring:
     name: security-hello
   security:
     user:
-      name: ping
-      password: 1059
+      name: admin
+      password: admin
